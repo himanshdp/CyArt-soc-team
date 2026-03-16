@@ -1,0 +1,1 @@
+The biggest takeaway was that 20 minutes is way too long for a manual response. I learned that I need to automate host isolation so the network cuts off the second a reverse shell is detected. Also, I had tightened the email filters to auto-block .exe files.
